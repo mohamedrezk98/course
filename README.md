@@ -1,2 +1,2 @@
-# course
-course for local repos 
+# course frontend 
+all projects the i will try to dy it 
